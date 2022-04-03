@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.2",
+        "davidepastore/slim-validation": "^0.5.1"
+    }
+}
